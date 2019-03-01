@@ -1,2 +1,2 @@
 # awesome Manuscript
-Autor: Tilmann
+Autor: Tilmann Wurst
