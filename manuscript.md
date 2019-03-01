@@ -1,4 +1,5 @@
 # Awesome Manuscript
-Autor: Tilmann Wurst
 
-UG added some more awesomeness!
+Autor: Tilly<br>
+Sie waschen gerade Ihre Hände darin ... ;-)))
+
